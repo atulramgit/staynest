@@ -13,4 +13,10 @@
   color: var(--color-primary-dark);
 }
 
+.bg-primary {
+  background-color: var(--color-primary);
+}
 
+.bg-primary-dark {
+  background-color: var(--color-primary-dark);
+}
